@@ -1,6 +1,6 @@
 package ForAbstractFactory.Modern;
 
-import ForAbstractFactory.Chair;
+import ForAbstractFactory.interfaces.Chair;
 
 public class ModernChair implements Chair {
     @Override

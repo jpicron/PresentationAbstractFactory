@@ -1,4 +1,4 @@
-package ForAbstractFactory;
+package ForAbstractFactory.interfaces;
 
 public interface AbstractFactory {
     public Chair createChair();

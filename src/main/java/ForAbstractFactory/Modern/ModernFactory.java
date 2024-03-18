@@ -1,9 +1,9 @@
 package ForAbstractFactory.Modern;
 
-import ForAbstractFactory.AbstractFactory;
-import ForAbstractFactory.Chair;
-import ForAbstractFactory.CoffeeTable;
-import ForAbstractFactory.Table;
+import ForAbstractFactory.interfaces.AbstractFactory;
+import ForAbstractFactory.interfaces.Chair;
+import ForAbstractFactory.interfaces.CoffeeTable;
+import ForAbstractFactory.interfaces.Table;
 
 public class ModernFactory implements AbstractFactory {
     @Override

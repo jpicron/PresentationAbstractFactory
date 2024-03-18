@@ -1,6 +1,6 @@
 package ForAbstractFactory.Victorian;
 
-import ForAbstractFactory.CoffeeTable;
+import ForAbstractFactory.interfaces.CoffeeTable;
 
 public class VictorianCoffeeTable implements CoffeeTable {
     @Override

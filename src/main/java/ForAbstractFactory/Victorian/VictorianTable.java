@@ -1,6 +1,6 @@
 package ForAbstractFactory.Victorian;
 
-import ForAbstractFactory.Table;
+import ForAbstractFactory.interfaces.Table;
 
 public class VictorianTable implements Table {
     @Override

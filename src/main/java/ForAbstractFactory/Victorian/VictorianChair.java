@@ -1,6 +1,6 @@
 package ForAbstractFactory.Victorian;
 
-import ForAbstractFactory.Chair;
+import ForAbstractFactory.interfaces.Chair;
 
 public class VictorianChair implements Chair {
     @Override
